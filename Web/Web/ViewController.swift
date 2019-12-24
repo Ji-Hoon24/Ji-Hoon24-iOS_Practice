@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     func checkUrl(_ url: String) -> String {
         var strUrl = url
         let flag = strUrl.hasPrefix("http://")
-        if !flag {
+        if !flag{
             strUrl = "http://" + strUrl
         }
         return strUrl
