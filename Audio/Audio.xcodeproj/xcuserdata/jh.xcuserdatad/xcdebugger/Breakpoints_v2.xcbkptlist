@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15269DBB-F61C-4380-AFFB-A740CAA0F297"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Audio/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - 2e84e3a1737a01da"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.btnPause.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - 6e838552a8935136"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.btnPause.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - 2ae86ceefc45c5bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.btnPause.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - e036baf88a211558"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.btnPause.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - b6ab5fa2949914d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Audio.ViewController"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "20003E13-2307-4560-BA37-933DDD4CFEBC - f2402fe8edc5f29b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Audio.ViewController&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "994">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Audio/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - 1bac49cf6377e647"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.lblEndTime.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - 3603f3688d378b13"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.lblEndTime.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - 78af3dbe3b13dd12"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.lblEndTime.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - 63aba22ecef72a48"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.lblEndTime.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - b6ab5fa2949914d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Audio.ViewController"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "894">
+               </Location>
+               <Location
+                  uuid = "3E782D34-C079-4CD0-B983-78AD997BBC50 - f2402fe8edc5f29b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Audio.ViewController&gt;"
+                  moduleName = "Audio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/xcodeProject/Audio/Audio/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
